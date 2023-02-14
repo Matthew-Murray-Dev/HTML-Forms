@@ -1,0 +1,30 @@
+form{
+    border:2px double rgb(207, 0, 0);
+    padding: 10px;
+}
+
+form label{
+    font-weight:bold;
+}
+
+form input{
+margin-bottom: 20px;
+width: 100%;
+}
+form textarea{
+    margin-bottom: 20px;
+    width:100%;
+}
+/*form button {
+    background-color: rgb(141,63,35);
+border:none;
+color: #fff;
+font-size: 24px;
+padding: 15px;
+width: 100%;
+}*/
+
+.entry{
+    display:flex;
+    flex-direction:column;
+}
